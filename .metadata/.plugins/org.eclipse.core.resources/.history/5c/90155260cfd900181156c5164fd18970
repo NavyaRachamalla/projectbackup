@@ -1,0 +1,5 @@
+package com.vehicle.rs.service;
+
+public class CustomerServiceImpl {
+
+}

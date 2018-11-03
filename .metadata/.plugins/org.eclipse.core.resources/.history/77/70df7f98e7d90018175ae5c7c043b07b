@@ -1,0 +1,2 @@
+VehicleDTO.findByPolicy_id=SELECT * FROM Customer_details t WHERE LOWER(t.customer_id) LIKE LOWER(CONCAT(CONCAT('%',:searchTerm), '%'))
+VehicleDTO.getAllVehicles=SELECT * FROM Customer_details

@@ -1,0 +1,5 @@
+package com.vehicle.rs.controller;
+
+public class CustomerRestURIs {
+
+}
